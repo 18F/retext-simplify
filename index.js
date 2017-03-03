@@ -6,7 +6,8 @@ var nlcstToString = require('nlcst-to-string');
 var quotation = require('quotation');
 var search = require('nlcst-search');
 var position = require('unist-util-position');
-var patterns = require('./index.json');
+var merge = require('deepmerge')
+var patterns = require('./rules.js')
 
 module.exports = simplify;
 

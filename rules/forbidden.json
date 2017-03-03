@@ -1,0 +1,139 @@
+{
+    "easily": {
+      "omit": true,
+      "replace": []
+    },
+    "simply": {
+      "omit": true,
+      "replace": []
+    },
+    "obviously": {
+      "omit": true,
+      "replace": []
+    },
+    "just": {
+      "omit": true,
+      "replace": []
+    },
+    "basically": {
+      "omit": true,
+      "replace": []
+    },
+    "procure": {
+      "omit": true,
+      "replace": []
+    },
+    "sexy": {
+      "omit": true,
+      "replace": []
+    },
+    "insane": {
+      "omit": true,
+      "replace": []
+    },
+    "clearly": {
+      "omit": true,
+      "replace": []
+    },
+    "FAQ": {
+      "omit": true,
+      "replace": [],
+      "reason": "worth pointing out, at least"
+    },
+    "advancing": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "pledge": {
+      "omit": true,
+      "replace": [],
+      "reason": "noncommittal"
+    },
+    "countering": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "dialogue": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "disincentivize": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "incentivize": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "empower": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "focusing": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "foster": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language unless referring to children"
+    },
+    "innovative": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "leverage": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "overarching": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "streamline": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "strengthening": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "tackling": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "thought leader": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "touchpoint": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "transforming": {
+      "omit": true,
+      "replace": [],
+      "reason": "not plain language"
+    },
+    "one-stop shop": {
+      "omit": true,
+      "replace": [],
+      "reason": "cliche"
+    }
+}
+

@@ -7,7 +7,7 @@ var quotation = require('quotation');
 var search = require('nlcst-search');
 var position = require('unist-util-position');
 var merge = require('deepmerge')
-var patterns = require('./rules.js')
+var patterns = merge.all(require('./rules.js').all)
 
 module.exports = simplify;
 

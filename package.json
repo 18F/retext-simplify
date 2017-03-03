@@ -1,7 +1,7 @@
 {
   "name": "retext-18f-simplify",
-  "version": "4.0.0",
-  "description": "Check phrases for simpler alternatives",
+  "version": "4.0.2",
+  "description": "Check phrases for simpler alternatives, using the 18F content styleguide",
   "license": "MIT",
   "keywords": [
     "simple",
@@ -12,12 +12,12 @@
     "retext",
     "plugin"
   ],
-  "repository": "https://github.com/wooorm/retext-simplify",
-  "bugs": "https://github.com/wooorm/retext-simplify/issues",
-  "author": "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
+  "repository": "https://github.com/18F/retext-simplify",
+  "bugs": "https://github.com/18F/retext-simplify/issues",
+  "author": "18F",
   "contributors": [
     "Titus Wormer <tituswormer@gmail.com> (http://wooorm.com)",
-    "Brian Hedberg",
+    "Brian Hedberg"
   ],
   "files": [
     "rules/18f-style.json",

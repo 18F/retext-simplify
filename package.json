@@ -1,6 +1,6 @@
 {
   "name": "retext-18f-simplify",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "Check phrases for simpler alternatives, using the 18F content styleguide",
   "license": "MIT",
   "keywords": [

@@ -25,18 +25,15 @@ function simplify(options) {
   var ignore = (options || {}).ignore || [];
 
   var phrases = difference(list, ignore);
-  // console.log(phrases)
 
   return transformer;
 
   function transformer(tree, file) {
-    // console.log(phrases)
+
     search(tree, phrases, finder);
 
     function casedMatch(match, replace) {
-      console.log(match, replace)
-      console.log(replace.indexOf(match) > -1)
-      return replace.indexOf(match) > -1
+      return replace.indexOf(match) > -1;
     }
 
     function finder(match, index, parent, phrase) {
@@ -60,12 +57,6 @@ function simplify(options) {
           reason += ', or remove it';
         }
       }
-      // console.log('---------')
-      // console.log(pattern, pattern.cased, !cased, !pattern.omit)
-      // console.log(pattern.replace)
-      // console.log((pattern.cased && !cased) || !pattern.omit)
-      // console.log(reason)
-      // console.log('---------')
 
       if ((pattern.cased && !cased) || pattern.omit || !pattern.cased) {
         message = file.warn(reason, {
